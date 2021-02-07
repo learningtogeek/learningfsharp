@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "La5vN5w+9I4UXjtK7lrXuzNUOLT77KSpKkr87IuvehNXxhyp9dV44Qq4TphJtdJeWAGnSp7TkSdE8Ny6UBmH2Q==",
+  "success": true,
+  "projectFilePath": "/home/mboorman/dev/learningfsharp/learningfsharp.fsproj",
+  "expectedPackageFiles": [
+    "/home/mboorman/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

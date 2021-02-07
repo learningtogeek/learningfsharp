@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mboorman/dev/learningfsharp/learningfsharp.fsproj": {}
+  },
+  "projects": {
+    "/home/mboorman/dev/learningfsharp/learningfsharp.fsproj": {
+      "version": "33.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mboorman/dev/learningfsharp/learningfsharp.fsproj",
+        "projectName": "learningfsharp",
+        "projectPath": "/home/mboorman/dev/learningfsharp/learningfsharp.fsproj",
+        "packagesPath": "/home/mboorman/.nuget/packages/",
+        "outputPath": "/home/mboorman/dev/learningfsharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mboorman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
